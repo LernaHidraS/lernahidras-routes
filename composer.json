@@ -5,7 +5,18 @@
         {
             "name": "Eliseu Santos",
             "email": "s.eliseu.santos@gmail.com"
+        },
+        {
+            "name": "Renê Soares",
+            "email": "reenerochase@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": " >= 7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lernahidras\\Route\\": "src/"
+        }
+    }
 }
