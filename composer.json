@@ -1,0 +1,11 @@
+{
+    "name": "eliseu/lernahidras-routes",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Eliseu Santos",
+            "email": "s.eliseu.santos@gmail.com"
+        }
+    ],
+    "require": {}
+}
